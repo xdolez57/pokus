@@ -2,3 +2,4 @@ A content of the newFile.txt.
 A new line added.
 
 New line added from another workstation.
+Another line with new setup.
