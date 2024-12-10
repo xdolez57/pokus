@@ -1,1 +1,2 @@
 Obsah souboru file003.txt.
+Doplneny radek.
